@@ -40,7 +40,7 @@ pip install pillow
 ### 1. Run the Application
 ```bash
 # Navigate to project directory
-cd C:\Users\Saleh\Desktop\face_attendance_ai
+cd /path/to/face_attendance_ai
 
 # Run the application
 python attendance.py
