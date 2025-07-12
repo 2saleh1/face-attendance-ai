@@ -2,6 +2,12 @@
 
 A simple and efficient attendance tracking system using face recognition technology built with Python, OpenCV, and face_recognition library.
 
+## 📸 Demo
+
+![Face Recognition Attendance System](demo_image.png)
+
+*Face Recognition Attendance System - Main Interface*
+
 ## 🚀 Installation Guide
 
 ### Step 1: Create New Anaconda Environment
